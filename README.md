@@ -13,3 +13,10 @@ El mod del servidor las carga desde aquí, así que los jugadores no tienen que 
 | `dersu_dados_color.png`, `dersu_dados_color_mini.png` | Firma «Better UI by Dersu»: dados oro, azul y verde con puntos blancos (la que se usa desde el 2-11-2026, sustituye a la de tres oros) |
 | `zombi_percepcion/fuerza/fortaleza/agilidad/intelecto.png` (+ `_mini`) | Zombis por atributo, en la pantalla de habilidades |
 | `zombi_mochila.png` (+ `_mini`) | Zombi abriendo la mochila, en el inventario |
+| `dersu_dados_discord.png`, `dersu_dados_discord_mini.png` | Firma «Valpo UI por Dersu»: logo original de Dersu (blanco, azul y amarillo). **La que se usa desde el 3-11-2026** |
+
+## Versiones
+
+El mod usa las imágenes de una versión fija (`@v1.0.0` en la dirección), no las de `main`: así, si aquí se cambia algo,
+el servidor sigue viéndose igual hasta que se actualice el mod. Dirección base:
+`https://cdn.jsdelivr.net/gh/Dersu9500/valpo-ui@v1.0.0/`
